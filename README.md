@@ -1,24 +1,18 @@
-Currency Converter
+# Currency Converter 💰
+
 A simple currency converter that uses live exchange rates to convert between different currencies.
 
-Features:
-Convert between currencies (e.g., USD to INR).
+## 🛠️ Technologies Used
 
-Responsive design.
+- **HTML** – for structuring the page
+- **CSS** – for styling the layout
+- **JavaScript** – for implementing functionality and fetching live exchange rates
+- **Currency API** – for fetching real-time exchange rates
 
-Fetches live data from the Currency API.
+## 💡 Features
 
-Setup:
-Clone the repository.
+- Convert between different currencies (e.g., USD to INR).
+- Responsive design, compatible with both desktop and mobile.
+- Fetches live data from the Currency API to provide up-to-date exchange rates.
+- Clean, user-friendly interface.
 
-Open index.html in your browser.
-
-Usage:
-Enter the amount you want to convert.
-
-Select "From" and "To" currencies.
-
-Click "Get Exchange Rate" to see the conversion.
-
-API:
-Uses the Currency API to fetch exchange rates.
